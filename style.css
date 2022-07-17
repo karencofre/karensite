@@ -212,7 +212,7 @@ h2 {
   position: relative;
   z-index: 1;
   list-style: none;
-  border: 1px dashed var(--black);
+  border-left: 1.5px solid var(--black);
   background-color: var(--footer);
 }
 a {
